@@ -3,7 +3,7 @@
 
 Name:		python-bson
 Version:	0.5.10
-Release:	2
+Release:	3
 Summary:	BSON codec for Python
 URL:		https://github.com/py-bson/bson
 License:	Apache-2.0 AND BSD-3-Clause
